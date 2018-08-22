@@ -18,6 +18,10 @@
     column-count: 5;
   }
 }
+body {
+  background-color: #eeeeee;
+}
+
 .nav-link:hover, .navbar > .h1:hover {
   text-decoration: underline dashed;
   text-underline-position: under;
