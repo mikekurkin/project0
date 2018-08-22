@@ -1,0 +1,11 @@
+@media (min-width: 500px) {
+  #greeting::before {
+    content: "Hello, Internet!";
+  }
+}
+
+@media (max-width: 499px) {
+  #greeting::before {
+    content: "Hello!";
+  }
+}
